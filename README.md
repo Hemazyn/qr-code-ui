@@ -19,8 +19,8 @@ This QR code component is designed to be easily integrated into your React proje
 ![](./src/assets/large-view.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repository](https://github.com/Hemazyn/qr-code-ui)
+- Live Site URL: [Netlify Link](https://qr-ui.netlify.app/)
 
 ## My process
 ### Built with
